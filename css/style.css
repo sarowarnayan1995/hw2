@@ -1,0 +1,13 @@
+table, th, td{
+    
+    border: 1px solid;
+    border-collapse: collapse;
+    padding: 15px;
+    text-align: center;
+}
+
+caption{
+
+    font-size: xx-large;
+    font-style: italic;
+   }
